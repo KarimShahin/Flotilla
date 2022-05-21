@@ -1,0 +1,28 @@
+.footer {
+    padding: 0.5rem 1rem;
+    background-color: #6d1737;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.footer-links {
+    background-color: inherit;
+}
+
+.footer-links-title {
+    font-size: 2rem;
+}
+
+.social-media-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.social-media-link {
+    color: #d32e6b;
+}
